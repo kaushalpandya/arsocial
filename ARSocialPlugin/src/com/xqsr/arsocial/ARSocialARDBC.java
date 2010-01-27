@@ -61,7 +61,7 @@ import com.bmc.arsys.pluginsvr.plugins.ARVendorField;
 
 /**
  * A twitter ARDBC plugin implementation 
- *  
+ *  @author Sebastiaan de Man
  */
 public class ARSocialARDBC extends ARDBCPlugin {
 
